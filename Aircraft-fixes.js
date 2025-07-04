@@ -1,3 +1,4 @@
+console.log("aircraft changes running");
 function realismify() {
 var notifiedTrue1 = new Boolean(0)
 geofs.addonAircraft = {}
